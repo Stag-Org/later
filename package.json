@@ -1,8 +1,7 @@
 {
   "name": "@stagirite/later",
-  "version": "1.2.0",
-  "description":
-    "(Fork) Determine later (or previous) occurrences of recurring schedules",
+  "version": "1.2.1",
+  "description": "(Fork) Determine later (or previous) occurrences of recurring schedules",
   "author": "BunKat <bill@levelstory.com>",
   "repository": {
     "type": "git",
