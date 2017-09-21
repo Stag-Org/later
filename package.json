@@ -1,17 +1,12 @@
 {
-  "name": "later",
+  "name": "@stagirite/later",
   "version": "1.2.0",
-  "description": "Determine later (or previous) occurrences of recurring schedules",
-  "keywords": [
-    "schedule",
-    "occurrences",
-    "recur",
-    "cron"
-  ],
+  "description":
+    "(Fork) Determine later (or previous) occurrences of recurring schedules",
   "author": "BunKat <bill@levelstory.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bunkat/later.git"
+    "url": "git@github.com:Stag-Org/later.git"
   },
   "main": "index.js",
   "browserify": "index-browserify.js",
